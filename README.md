@@ -3,8 +3,12 @@ Xperi Summer Internship project - Image Semantic Segmentation using two types of
 
 Files are to opened with Google Colaboratory.
 
-Used: - Python
+Used:
 
-      - PyTorch
+[1.Python](https://www.python.org/)
+
+[2.PyTorch](https://pytorch.org/get-started/locally/)
+
+
 
 
