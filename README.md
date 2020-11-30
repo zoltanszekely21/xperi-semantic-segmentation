@@ -8,9 +8,9 @@ Files are to be opened with Google Colaboratory.
 
 Used:
 
-[1.Python](https://www.python.org/)
+[1. Python](https://www.python.org/)
 
-[2.PyTorch](https://pytorch.org/get-started/locally/)
+[2. PyTorch](https://pytorch.org/get-started/locally/)
 
 
 
