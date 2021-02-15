@@ -4,7 +4,7 @@
 
 Xperi Summer Internship project - Image Semantic Segmentation using two types of U-Net models w/different parameters, trained on Pascal VOC 2012 dataset.
 
-Files are to be opened with Google Colaboratory.
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 Used:
 
