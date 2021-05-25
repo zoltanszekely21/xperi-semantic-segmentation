@@ -1,4 +1,4 @@
-# xperi-semantic-segmentation
+# Xperi Semantic Segmentation
 
 ![alt text](https://cdn-images-1.medium.com/fit/t/1600/480/0*v_KWTZcaAw-DRxmv.png)
 
